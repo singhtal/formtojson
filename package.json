@@ -1,0 +1,22 @@
+{
+  "name": "react-form2json",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tal1992/formtojson.git"
+  },
+  "keywords": [
+    "react-form-to-json"
+  ],
+  "author": "talvinder singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tal1992/formtojson/issues"
+  },
+  "homepage": "https://github.com/tal1992/formtojson#readme"
+}
